@@ -9,7 +9,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
-    url:          /sample7/about.html
+    url:          /about.html
   - name:         Blog
     url:          http://muan.co
     external:     true
