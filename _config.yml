@@ -1,7 +1,7 @@
 title:            Professor Smith
 description:      My lovely minimal site
-baseurl: "/sample7"
 url: "http://www.keithbuhler.com"
+baseurl: "/sample7"
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -16,9 +16,9 @@ links:
   - name:         GitHub
     url:          http://github.com/keithbuhler
     external:     true
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
-markdown:         redcarpet
+markdown:         kramdown
 redcarpet:
   extensions:
     - smart
